@@ -16,6 +16,8 @@ python main.py
 python -m unittest
 ```
 
+Run the test suite again after making code changes to check for regressions.
+
 ## How it's laid out
 
 | File | What it does |
